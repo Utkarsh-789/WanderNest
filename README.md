@@ -8,9 +8,7 @@ Open and view the Project using the `.zip` file provided or at my [Github Reposi
   <a href="https://github.com/Utkarsh-789/WanderNest-tourism-website/"><strong>➥ Live Demo</strong></a>
 </div>
 
-## Screeshot
 
-![Tourest Desktop Demo](./WanderNest.png "Desktop Demo")
 
 ## Tools Required
 No additional tools are required apart from a text editor of your choice
