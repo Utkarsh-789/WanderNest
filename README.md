@@ -2,10 +2,10 @@
  
   # WanderNest-tourism-website
    Welcome to "WanderNest" a travel website created exclusively with `HTML`, `CSS` and a touch of `JavaScript`. Feel free to fork, contribute, or use this open-source project as a learning tool to enhance your HTML and CSS skills.   <br />    <br />
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/Utkarsh-789/WanderNest-tourism-website).
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/Utkarsh-789/WanderNest).
 <div align="center">
   <br />
-  <a href="https://github.com/Utkarsh-789/WanderNest-tourism-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Utkarsh-789/WanderNest"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Screeshot
